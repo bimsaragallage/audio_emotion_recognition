@@ -63,11 +63,6 @@ This project explores a novel approach to **Audio Emotion Recognition** using **
    - **Reconstruction Loss**: Ensures the reconstructed data is close to the input.  
    - **KL Divergence Loss**: Regularizes the latent space by aligning the learned distribution with a standard normal distribution.  
 
-   The combined loss function is defined as:  
-   $$  
-   \text{Loss} = \text{Reconstruction Loss} + \text{KL Divergence Loss}  
-   $$  
-
 ### Novelty of Approach  
 
 - Incorporates VAEs to create a more robust latent representation of audio features, capturing both the temporal and frequency characteristics of emotional speech.  
