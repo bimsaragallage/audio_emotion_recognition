@@ -1,7 +1,7 @@
 ## Introduction
 
 ### Purpose
-This project presents a novel approach to audio emotion recognition using Vibrational Autoencoders. Audio emotion recognition is a significant task in speech processing, with applications in areas such as human-computer interaction, mental health monitoring, and sentiment analysis.
+This project presents a novel approach to audio emotion recognition using Variational Autoencoders. Audio emotion recognition is a significant task in speech processing, with applications in areas such as human-computer interaction, mental health monitoring, and sentiment analysis.
 
 ### Dataset
 The model is trained and evaluated on the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) dataset, which contains emotional speech recordings. The dataset can be accessed using the following link:  
@@ -15,9 +15,9 @@ To extract meaningful information from audio signals, the following features wer
 - **Spectral Centroid**: Represents the "center of mass" of the audio spectrum, related to the perceived brightness of the sound.
 
 ### Approach
-The Vibrational Autoencoder architecture leverages advanced encoding techniques to capture the underlying emotional features from audio signals. Unlike traditional methods, this approach ensures better representation of vibrational patterns in speech, leading to improved recognition accuracy.  
+The Variational Autoencoder architecture leverages advanced encoding techniques to capture the underlying emotional features from audio signals. Unlike traditional methods, this approach ensures better representation of vibrational patterns in speech, leading to improved recognition accuracy.  
 
-This project showcases the potential of vibrational-based encoding in emotion recognition, offering an innovative perspective to advance the field.
+This project showcases the potential of Variational-based encoding in emotion recognition, offering an innovative perspective to advance the field.
 
 ## Installation
 
